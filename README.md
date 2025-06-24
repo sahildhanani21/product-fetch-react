@@ -44,8 +44,9 @@ npm run dev  # or npm start
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![image](https://github.com/user-attachments/assets/764335d2-9f2f-4595-a519-d0664da0cd58)
-![image](https://github.com/user-attachments/assets/e97e238f-4aa7-4ef5-9724-70a56c00126a)
-![image](https://github.com/user-attachments/assets/7494fe78-5082-4e8b-b6a6-a2cbcd9d245c)
-![image](https://github.com/user-attachments/assets/db721cf1-11cd-4984-8c0a-6f3bed8a9b5d)
+https://github.com/user-attachments/assets/764335d2-9f2f-4595-a519-d0664da0cd58
+https://github.com/user-attachments/assets/764335d2-9f2f-4595-a519-d0664da0cd58
+https://github.com/user-attachments/assets/e97e238f-4aa7-4ef5-9724-70a56c00126a
+https://github.com/user-attachments/assets/7494fe78-5082-4e8b-b6a6-a2cbcd9d245c
+https://github.com/user-attachments/assets/db721cf1-11cd-4984-8c0a-6f3bed8a9b5d
 
