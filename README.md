@@ -23,12 +23,10 @@ A modern **React.js** application that fetches product data from an API and disp
 
 ---
 
-
 ## 📡 API Used
 
-Fetching data from:
-
-> https://dummyjson.com/products
+Fetching data from:  
+> 🔗 [https://dummyjson.com/products](https://dummyjson.com/products)
 
 ---
 
@@ -39,13 +37,3 @@ git clone https://github.com/your-username/react-shop-fetch.git
 cd react-shop-fetch
 npm install
 npm run dev  # or npm start
-
----
-
-**## 📸 Screenshots**
-
-![Screenshot 2025-06-24 183113](https://github.com/user-attachments/assets/5ff9cc77-58d8-4063-a458-5a1c8003258d)
-![Screenshot 2025-06-24 183056](https://github.com/user-attachments/assets/68214462-feb5-4d83-ac6e-fd0f2a8893a1)
-![Screenshot 2025-06-24 183034](https://github.com/user-attachments/assets/76f81144-43c7-40d4-8fd1-78e7975e68ab)
-![Screenshot 2025-06-24 183012](https://github.com/user-attachments/assets/9a4b5f04-3c7b-46fd-a688-181fbebc4f14)
-
