@@ -41,12 +41,10 @@ npm install
 npm run dev  # or npm start
 
 
-## 📸 Screenshots
+**## 📸 Screenshots**
 
-### 🏠 Home Page
-https://github.com/user-attachments/assets/764335d2-9f2f-4595-a519-d0664da0cd58
-https://github.com/user-attachments/assets/764335d2-9f2f-4595-a519-d0664da0cd58
-https://github.com/user-attachments/assets/e97e238f-4aa7-4ef5-9724-70a56c00126a
-https://github.com/user-attachments/assets/7494fe78-5082-4e8b-b6a6-a2cbcd9d245c
-https://github.com/user-attachments/assets/db721cf1-11cd-4984-8c0a-6f3bed8a9b5d
+![Screenshot 2025-06-24 183113](https://github.com/user-attachments/assets/5ff9cc77-58d8-4063-a458-5a1c8003258d)
+![Screenshot 2025-06-24 183056](https://github.com/user-attachments/assets/68214462-feb5-4d83-ac6e-fd0f2a8893a1)
+![Screenshot 2025-06-24 183034](https://github.com/user-attachments/assets/76f81144-43c7-40d4-8fd1-78e7975e68ab)
+![Screenshot 2025-06-24 183012](https://github.com/user-attachments/assets/9a4b5f04-3c7b-46fd-a688-181fbebc4f14)
 
