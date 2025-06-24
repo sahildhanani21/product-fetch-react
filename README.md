@@ -40,6 +40,7 @@ cd react-shop-fetch
 npm install
 npm run dev  # or npm start
 
+---
 
 **## 📸 Screenshots**
 
